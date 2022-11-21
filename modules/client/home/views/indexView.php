@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Hello Client
+    Xin chào
 </body>
 </html>
